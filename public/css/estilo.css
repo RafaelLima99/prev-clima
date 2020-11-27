@@ -1,0 +1,164 @@
+/*hearder */
+#nav-color {
+    background: #0096d0;
+}
+
+.form-nav{
+    height: 32px;
+    border-radius: 25px;
+}
+
+.btn-custon{
+    color:white;
+}
+
+.btn-custon:hover{
+    color:#FFFD01;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #FFFD01;
+}
+
+/* section1 */
+#section1{
+    background: #0096d0;
+}
+
+.color-section-1{
+    color: white;
+}
+
+.icon-clima{
+    font-size: 130px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ #temperatura{
+    font-size: 100px;
+    text-align: center;
+}
+
+#cidade{
+    text-align: center;
+
+}
+p, #atualizado{
+    text-align: center;
+}
+
+.temp-max-min{
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.icon-clima-card{
+    font-size: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#0096d0;
+}
+
+#info-sec1{
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 24px;
+    padding-bottom: 15px;
+   
+}
+
+/* section 2 */
+.bar-titulo{
+    margin: .5em 0;
+    border-left: 5px solid #0096d0;
+    padding: 10 10px;
+    padding-left: 10px;
+    
+}
+
+/* footer */
+footer{
+    background: #0096d0;
+}
+.rodape{
+    height: 70px;
+}
+
+
+/* media querys */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /*section 1*/
+    .icon-clima{
+        font-size: 80px;
+        margin-top: 8px;
+    }
+
+    h1, #temperatura{
+        font-size: 50px;
+        text-align: center;
+    }
+    
+    h2, #cidade{
+        text-align: center;
+        font-size: 25px;
+    
+    }
+    p, #atualizado{
+        text-align: center;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    #info-sec1{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .form-nav{
+        height: 32px;
+        border-radius: 25px;
+        width: 280px;
+    }
+
+    /* section 2 */
+    .bar-titulo{
+        border-left: 5px solid #0096d0;
+        padding: 10 10px;
+    }
+
+    #titulo-sec2 h2{
+        text-align: left;
+    }
+
+    .rodape{
+        height: 50px;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
