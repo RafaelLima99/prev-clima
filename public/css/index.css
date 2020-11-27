@@ -1,0 +1,11 @@
+.row{
+    display:grid; 
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#conteudo{
+    text-align:center; 
+    display: none;
+}
