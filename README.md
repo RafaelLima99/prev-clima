@@ -1,24 +1,39 @@
-<h1> PrevClima </h1>
+# Sobre o projeto
 
-<h3>Sistema de previsão do tempo, baseado nas coordenadas o usuário, utilizando API da HG Brasil.</h3>
-<a href="https://chatday.online/">Ver projeto em produção</a>
-<img src="">
+Link do projeto em produção: https://prevclima.herokuapp.com/
 
-<h4>Como usar o projeto</h4>
+prev Clima é uma aplicação full stack web.
 
-1. Clone o projeto para o seu computador:
+A aplicação consiste em mostrar a previsão do tempo baseado nas coordenadas(latitude e longitude) do usuário, utilizando API da HG Brasil.
 
-`git clone https://github.com/RafaelLima99/prev-clima.git`
+## Layout mobile
+![Mobile 1](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-01.png) ![Mobile 2](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-02.png)
 
+## Layout web
+![Web 1](https://github.com/RafaelLima99/assets/blob/main/prevclima-desk-01.png)
 
-3. Com o PHP instalado em seu computador, inicie o servidor PHP local:
+# Tecnologias utilizadas
+## Back end
+- PHP
+- Banco de dados: Postgresq
+## Front end
+- HTML 5 / CSS 3 / JS 
+- JQuery
+- Bootstrap
+# Como executar o projeto
+Pré-requisitos: PHP >= 7
 
-`php -S localhost:8000`
+```bash
+# clonar repositório
+git clone https://github.com/RafaelLima99/prev-clima.git
 
-4. Agora abra seu navegador web digite:
+# entrar na pasta do projeto back end
+cd public
 
-`localhost:8000`
-
-Obs: Caso esteja usando XAMPP ou WAMP não precisa usar os comandos do servidor local PHP.
+# executar o projeto
+php -S localhost:8080
+```
+# Autor
+Rafael Lima
 
 
