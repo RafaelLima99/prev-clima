@@ -7,7 +7,7 @@ prev Clima é uma aplicação full stack web.
 A aplicação consiste em mostrar a previsão do tempo baseado nas coordenadas(latitude e longitude) do usuário, utilizando API da HG Brasil.
 
 ## Layout mobile
-![Mobile 1](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-01.png) ![Mobile 2](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-02.png)
+![Mobile 1](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-01.png =369x640) ![Mobile 2](https://github.com/RafaelLima99/assets/blob/main/prevclima-mob-02.png)
 
 ## Layout web
 ![Web 1](https://github.com/RafaelLima99/assets/blob/main/prevclima-desk-01.png)
