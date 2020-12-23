@@ -1,10 +1,10 @@
 # Sobre o projeto
 
-Link do projeto em produção: https://prevclima.herokuapp.com/
+- Link do projeto em produção: https://prevclima.herokuapp.com/
 
-Prev Clima é uma aplicação full stack web.
+- Prev Clima é uma aplicação full stack web.
 
-A aplicação consiste em mostrar a previsão do tempo baseado nas coordenadas(latitude e longitude) do usuário, utilizando API da HG Brasil.
+- A aplicação consiste em mostrar a previsão do tempo baseado nas coordenadas(latitude e longitude) do usuário, utilizando API da HG Brasil.
 
 # Tecnologias utilizadas
 ## Back end
